@@ -1,3 +1,9 @@
+# 타 프로필 링크
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%8A%B9%EC%9D%BC-%EA%B0%95-614b14241/)
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@user-zb8vq3yx2x/featured)
+
 # 기술/환경
 
 ### 주 사용
