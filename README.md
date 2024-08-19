@@ -20,8 +20,20 @@
 
 등등
 
+c 표준
+- 주 사용 컴파일러 표준
+  - c89
+- 가끔 사용해봤거나 본 적은 있거나
+  - 나머지
+
+c++ 표준
+- 주 사용 컴파일러 표준
+  - c++14
+- 가끔 사용해봤거나 본 적은 있거나
+  - 나머지
+
 ---
-주 사용이라기엔 애매
+주 사용이라기엔 애매...
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -56,45 +68,46 @@
 
 등등
 
-# 개인 프로젝트  목록 및 요약
+# 개인 프로젝트 목록 및 요약
+
+최근 -> 과거순으로 정렬 <br>
+만들기만 하고 방치할 수 있어서 코드 퀄리티는 보장 불가...
 
 ## public
 
 ### 연습용
 
-아래로 갈수록 최신 프로젝트입니당
-
-- [ToyProjects---ascii_tetris](https://github.com/redbindy/ToyProjects---ascii_tetris)
-  - C, 인라인 어셈블리로 만든 콘솔창 테트리스
-- [ProductManager](https://github.com/redbindy/ProductManager)
-  - 아주 단순한 형태의 유통기한 관리용 웹사이트
-  - 현재 사용하지 않음
-- [ToyProject-ConsoleShootingGame](https://github.com/redbindy/ToyProject-ConsoleShootingGame)
-  - 콘솔창 슈팅 게임
-  - 더블 버퍼링 맛보기
-- [PingPong](https://github.com/redbindy/PingPong)
-  - 윈도우즈 API 정복 공튕기기 실습 코드
-- [LegendOfZeldaImitation](https://github.com/redbindy/LegendOfZeldaImitation)
-  - ddraw 화면 그리기
-  - 단순한 비트맵 압축 방법 맛보기
-- [BiniGame](https://github.com/redbindy/BiniGame)
-  - 인터넷 방송 장기 자랑 제출용 단순한 형태의 슈팅 게임
-  - D2D
+- [SimpleChatProgram](https://github.com/redbindy/SimpleChatProgram)
+  - 소켓 다중 접속 연습
 - [SimpleNetworkGame](https://github.com/redbindy/SimpleNetworkGame)
   - D3D11 2d 렌더링
   - 1:1 접속 구현
-- [SimpleChatProgram](https://github.com/redbindy/SimpleChatProgram)
-  - 소켓 다중 접속 연습
+- [BiniGame](https://github.com/redbindy/BiniGame)
+  - 인터넷 방송 장기 자랑 제출용 단순한 형태의 슈팅 게임
+  - D2D
+- [LegendOfZeldaImitation](https://github.com/redbindy/LegendOfZeldaImitation)
+  - ddraw 화면 그리기
+  - 단순한 비트맵 압축 방법 맛보기
+- [PingPong](https://github.com/redbindy/PingPong)
+  - 윈도우즈 API 정복 공튕기기 실습 코드
+- [ToyProject-ConsoleShootingGame](https://github.com/redbindy/ToyProject-ConsoleShootingGame)
+  - 콘솔창 슈팅 게임
+  - 더블 버퍼링 맛보기
+- [ProductManager](https://github.com/redbindy/ProductManager)
+  - 아주 단순한 형태의 유통기한 관리용 웹사이트
+  - 현재 사용하지 않음
+- [ToyProjects---ascii_tetris](https://github.com/redbindy/ToyProjects---ascii_tetris)
+  - C, 인라인 어셈블리로 만든 콘솔창 테트리스
 
 ### 과제용
 
-- [SOP---Dijkstra](https://github.com/redbindy/SOP---Dijkstra)
-  - 다익스트라 최단 경로 알고리듬
-- [SocketAssignment](https://github.com/redbindy/SocketAssignment)
-  - 아주 단순한 형태의 소켓 파일 전송기
 - [nodeAssignment](https://github.com/redbindy/nodeAssignment)
   - 아주 간단한 형태의 node 웹사이트
   - 당시 [클라우드 타입](https://cloudtype.io/)을 통해 배포
+- [SocketAssignment](https://github.com/redbindy/SocketAssignment)
+  - 아주 단순한 형태의 소켓 파일 전송기
+- [SOP---Dijkstra](https://github.com/redbindy/SOP---Dijkstra)
+  - 다익스트라 최단 경로 알고리듬
 
 ## private
 
