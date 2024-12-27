@@ -77,6 +77,12 @@ c++ 표준
 
 ### 연습용
 
+- [ComputerScience](https://github.com/redbindy/ComputerScience?tab=readme-ov-file)
+  - 전공 복습용
+  - 코드로 구현할 것들 골라서 구현
+- [ImageProcessingPractice](https://github.com/redbindy/ImageProcessingPractice)
+  - 이미지 처리 구현해보기
+  - CUDA 프로그래밍 기초 연습
 - [SimpleChatProgram](https://github.com/redbindy/SimpleChatProgram)
   - 소켓 다중 접속 연습
 - [SimpleNetworkGame](https://github.com/redbindy/SimpleNetworkGame)
