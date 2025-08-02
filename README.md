@@ -7,6 +7,7 @@
 
 - 적당히 눈으로 볼 수 있는 결과물 중에서 몇 개만 올려봅니다.
 - 비교적 최신 것부터 작성하고 업데이트가 안 된 것들이 있을 수 있습니다.
+- 제목은 소스코드 저장소로 이미지는 유튜브로 연결해놨습니다.
 
 ## [2D Game Programming](https://github.com/redbindy/2DGameProgramming)
 
