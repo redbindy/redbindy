@@ -1,129 +1,67 @@
 # 타 프로필 링크
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%8A%B9%EC%9D%BC-%EA%B0%95-614b14241/)
+- [링크드인](https://www.linkedin.com/in/승일-강-614b14241)
+- [유튜브](https://www.youtube.com/@%EC%A7%91%EC%BD%94%EB%8D%94)
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@user-zb8vq3yx2x/featured)
+# 해왔던 것들
 
-# 기술/환경
+- 적당히 눈으로 볼 수 있는 결과물 중에서 몇 개만 올려봅니다.
+- 비교적 최신 것부터 작성하고 업데이트가 안 된 것들이 있을 수 있습니다.
 
-### 주 사용
+## [2D Game Programming](https://github.com/redbindy/2DGameProgramming)
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![SourceTree](https://img.shields.io/badge/SourceTree-0000FF.svg?style=for-the-badge&logo=SourceTree&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+- 찰스 켈리의 2D 게임 프로그래밍 서적을 바탕으로 연습
+- 책의 구버전 라이브러리를 바꾸면서 진행
+  - D3D9, D3DX -> D3D11, DirectXTK, DWrite, Direct2D
+  - XInput -> GameInput
+  - XAct -> XAudio2
 
-등등
+[![이미지 처리](https://img.youtube.com/vi/t5HkXrRw5Q8/0.jpg)](https://youtu.be/t5HkXrRw5Q8?feature=shared)
 
-c 표준
-- 주 사용 컴파일러 표준
-  - c89
-- 가끔 사용해봤거나 본 적은 있거나
-  - 나머지
+## [이미지 처리 연습](https://github.com/redbindy/ImageProcessingPractice)
 
-c++ 표준
-- 주 사용 컴파일러 표준
-  - c++14
-- 가끔 사용해봤거나 본 적은 있거나
-  - 나머지
+- D3D11, ImGui, ImPlot을 활용한 GUI 이미지 처리 프로그램
+- 순수 픽셀 데이터를 읽어서 이미지 처리 수식 적용
+- SIMD, CUDA 최적화 적용
+  - 중간에 코드를 전면 수정해서 현재 코드엔 미적용
+  - 사실상 취미라 진행이 느림...
 
----
-주 사용이라기엔 애매...
+[![이미지 처리](https://img.youtube.com/vi/BiGEe56CSeY/0.jpg)](https://youtu.be/BiGEe56CSeY?feature=shared)
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+- 영상은 대략적인 결과 보여주기용으로 찍어봤습니당
 
-등등
+## [A* 숫자 찾기](https://github.com/redbindy/CoinHunter)
 
-### 한 번이라도 써 본 것
+- 콘솔창 기반 출력
+- A* 알고리듬 기반으로 가장 가까운 숫자 찾아가기
 
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+[![동전 줍기](https://img.youtube.com/vi/ZAvOzUcr9nI/0.jpg)](https://youtu.be/ZAvOzUcr9nI?feature=shared)
 
-등등
+## [다중 접속 채팅](https://github.com/redbindy/SimpleChatProgram)
 
-### 현재 관심 분야
+- 콘솔 기반 다중 접속 통신
+- C# Task 기반으로 구현
 
-![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
+[![다중 접속 채팅](https://img.youtube.com/vi/tBBS0bDeLjI/0.jpg)](https://youtu.be/tBBS0bDeLjI?feature=shared)
 
-- 영상/신호 처리
-- 그래픽스
-- 멀티스레딩
-- CUDA
+## [비니게임](https://github.com/redbindy/BiniGame)
 
-등등
+- 치지직 스트리머 연비니의 장기자랑 컨텐츠 제출용
+- 콘솔 기반 슈팅 게임을 Direct2D 기반으로 옮긴 버전
 
-# 개인 프로젝트 목록 및 요약
+[![비니게임](https://img.youtube.com/vi/0A1CHTJjrco/0.jpg)](https://youtu.be/0A1CHTJjrco?feature=shared)
 
-최근 -> 과거순으로 정렬 <br>
-만들기만 하고 방치할 수 있어서 코드 퀄리티는 보장 불가...
 
-## public
+## [콘솔 스크린 슈팅 게임](https://github.com/redbindy/ToyProject-ConsoleShootingGame)
 
-### 연습용
+- 콘솔창 기반 슈팅 게임
+- 자체 구현 더블 버퍼링
 
-- [ComputerScience](https://github.com/redbindy/ComputerScience?tab=readme-ov-file)
-  - 전공 복습용
-  - 코드로 구현할 것들 골라서 구현
-- [ImageProcessingPractice](https://github.com/redbindy/ImageProcessingPractice)
-  - 이미지 처리 구현해보기
-  - CUDA 프로그래밍 기초 연습
-- [SimpleChatProgram](https://github.com/redbindy/SimpleChatProgram)
-  - 소켓 다중 접속 연습
-- [SimpleNetworkGame](https://github.com/redbindy/SimpleNetworkGame)
-  - D3D11 2d 렌더링
-  - 1:1 접속 구현
-- [BiniGame](https://github.com/redbindy/BiniGame)
-  - 인터넷 방송 장기 자랑 제출용 단순한 형태의 슈팅 게임
-  - D2D
-- [LegendOfZeldaImitation](https://github.com/redbindy/LegendOfZeldaImitation)
-  - ddraw 화면 그리기
-  - 단순한 비트맵 압축 방법 맛보기
-- [PingPong](https://github.com/redbindy/PingPong)
-  - 윈도우즈 API 정복 공튕기기 실습 코드
-- [ToyProject-ConsoleShootingGame](https://github.com/redbindy/ToyProject-ConsoleShootingGame)
-  - 콘솔창 슈팅 게임
-  - 더블 버퍼링 맛보기
-- [ProductManager](https://github.com/redbindy/ProductManager)
-  - 아주 단순한 형태의 유통기한 관리용 웹사이트
-  - 현재 사용하지 않음
-- [ToyProjects---ascii_tetris](https://github.com/redbindy/ToyProjects---ascii_tetris)
-  - C, 인라인 어셈블리로 만든 콘솔창 테트리스
+[![콘솔 스크린 슈팅 게임](https://img.youtube.com/vi/LmsBboiaqqM/0.jpg)](https://youtu.be/YBiamdr60hI?feature=shared)
 
-### 과제용
+## [아스키 테트리스](https://github.com/redbindy/ToyProjects---ascii_tetris)
 
-- [nodeAssignment](https://github.com/redbindy/nodeAssignment)
-  - 아주 간단한 형태의 node 웹사이트
-  - 당시 [클라우드 타입](https://cloudtype.io/)을 통해 배포
-- [SocketAssignment](https://github.com/redbindy/SocketAssignment)
-  - 아주 단순한 형태의 소켓 파일 전송기
-- [SOP---Dijkstra](https://github.com/redbindy/SOP---Dijkstra)
-  - 다익스트라 최단 경로 알고리듬
+- 콘솔창 기반의 테트리스
+- 비주얼 스튜디오 x86 인라인 어셈블리어
 
-## private
-
-현재는 모두 [POCU 아카데미](https://pocu.academy/ko)의 수강생 및 조교 활동용 저장소
-
-## 깃 블로그
-
-기술 관련된 글 중에서 공개할 내용들의 블로그
-
-### 게시글 관련 저장소
-
-- [DX11ForPost](https://github.com/redbindy/DX11ForPost)
-  - D3D11 튜토리얼 정리용 샘플 코드
+[![아스키 테트리스 - 인라인 어셈블리 버전](https://img.youtube.com/vi/LmsBboiaqqM/0.jpg)](https://youtu.be/LmsBboiaqqM?feature=shared)
