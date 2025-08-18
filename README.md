@@ -9,6 +9,12 @@
 - 비교적 최신 것부터 작성하고 업데이트가 안 된 것들이 있을 수 있습니다.
 - 제목은 소스코드 저장소로 이미지는 유튜브로 연결해놨습니다.
 
+## [Game Programming in C++](https://github.com/redbindy/GameProgrammingInCpp)
+
+- 산자이 마드하브의 C++ 게임 프로그래밍 서적을 바탕으로 연습
+
+[![C++ 게임 프로그래밍](https://img.youtube.com/vi/ycfk139Qrl8/0.jpg)](https://youtu.be/ycfk139Qrl8?feature=shared)
+
 ## [2D Game Programming](https://github.com/redbindy/2DGameProgramming)
 
 - 찰스 켈리의 2D 게임 프로그래밍 서적을 바탕으로 연습
@@ -17,7 +23,7 @@
   - XInput -> GameInput
   - XAct -> XAudio2
 
-[![이미지 처리](https://img.youtube.com/vi/t5HkXrRw5Q8/0.jpg)](https://youtu.be/t5HkXrRw5Q8?feature=shared)
+[![2D 게임 프로그래밍](https://img.youtube.com/vi/t5HkXrRw5Q8/0.jpg)](https://youtu.be/t5HkXrRw5Q8?feature=shared)
 
 ## [이미지 처리 연습](https://github.com/redbindy/ImageProcessingPractice)
 
