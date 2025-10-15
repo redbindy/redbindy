@@ -9,6 +9,12 @@
 - 비교적 최신 것부터 작성하고 업데이트가 안 된 것들이 있을 수 있습니다.
 - 제목은 소스코드 저장소로 이미지는 유튜브로 연결해놨습니다.
 
+## [WIP: 귤 엔진](https://github.com/redbindy/GyulEngine/tree/development)
+
+- 게임 엔진 만들어보기
+
+[![GyulEngine](https://img.youtube.com/vi/mikbzTDBpGg/0.jpg)](https://youtu.be/mikbzTDBpGg?si=awF5ecLvoY8RI6WN)
+
 ## [Game Programming in C++](https://github.com/redbindy/GameProgrammingInCpp)
 
 - 산자이 마드하브의 C++ 게임 프로그래밍 서적을 바탕으로 연습
@@ -25,7 +31,7 @@
 
 [![2D 게임 프로그래밍](https://img.youtube.com/vi/t5HkXrRw5Q8/0.jpg)](https://youtu.be/t5HkXrRw5Q8?feature=shared)
 
-## [이미지 처리 연습](https://github.com/redbindy/ImageProcessingPractice)
+## [WIP: 이미지 처리 연습](https://github.com/redbindy/ImageProcessingPractice)
 
 - D3D11, ImGui, ImPlot을 활용한 GUI 이미지 처리 프로그램
 - 순수 픽셀 데이터를 읽어서 이미지 처리 수식 적용
