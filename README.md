@@ -13,7 +13,7 @@
 
 - 게임 엔진 만들어보기
 
-[![GyulEngine](https://img.youtube.com/vi/mikbzTDBpGg/0.jpg)](https://youtu.be/mikbzTDBpGg?si=awF5ecLvoY8RI6WN)
+[![GyulEngine](https://img.youtube.com/vi/QGAM2CO9cjs/0.jpg)](https://youtu.be/QGAM2CO9cjs?si=JjC0BuULHmhRUTiK)
 
 ## [Game Programming in C++](https://github.com/redbindy/GameProgrammingInCpp)
 
